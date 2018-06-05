@@ -1,2 +1,2 @@
 # helloworld
-just another repository
+前端日记
